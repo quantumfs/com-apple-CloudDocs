@@ -1,0 +1,9 @@
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\bin\Debug\WA_Wrapper.exe
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\bin\Debug\WA_Wrapper.pdb
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\bin\Debug\WA_Wrapper.xml
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\obj\x86\Debug\WA_Wrapper.Resources.resources
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\obj\x86\Debug\WA_Wrapper.vbproj.GenerateResource.Cache
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\obj\x86\Debug\WA_Wrapper.exe
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\obj\x86\Debug\WA_Wrapper.xml
+C:\Users\Mathy\Programming\WA_Wrapper\WA_Wrapper\obj\x86\Debug\WA_Wrapper.pdb
