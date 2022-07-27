@@ -1074,25 +1074,11 @@ signature or the like, if available.  See C<cons> for an example.
 
 =head1 AUTHOR
 
-Ken Williams <kwilliams@cpan.org>
-
-Development questions, bug reports, and patches should be sent to the
-Module-Build mailing list at <module-build@perl.org>.
-
-Bug reports are also welcome at
-<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Module-Build>.
-
-The latest development version is available from the Git
-repository at <https://github.com/dagolden/module-build/>
-
+Taylor Moon
 
 =head1 COPYRIGHT
 
-Copyright (c) 2001-2006 Ken Williams.  All rights reserved.
-
-This library is free software; you can redistribute it and/or
-modify it under the same terms as Perl itself.
-
+Quasilink
 
 =head1 SEE ALSO
 
